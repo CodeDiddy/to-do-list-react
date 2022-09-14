@@ -1,9 +1,10 @@
-const Taken  = (data) => {
-    const taken = data.data
-   
+import useFetch from "./useFetch";
 
-    console.log(taken)
-    
+
+const Taken  = (uri) => {
+
+    const taken = useFetch(uri)
+     
     return (
         <div className="takenlijst">
             {taken ? 

@@ -1,0 +1,28 @@
+{
+    "taken": [
+        {
+            "id": 1,
+            "taak": "vuilnis buiten zetten", 
+            "einddatum": "06-sep-2022",
+            "afgehandeld": "false"
+        },
+        {
+            "id": 2,
+            "taak": "auto wassen",
+            "einddatum": "12-sep-2022",
+            "afgehandeld": "false"
+        },
+        {
+            "id": 3,
+            "taak": "afwas doen",
+            "einddatum": "12-sep-2022",
+            "afgehandeld": "false"
+        },
+        {
+            "id": 4,
+            "taak": "bed opmaken",
+            "einddatum": "15-sep-2022",
+            "afgehandeld": "false"
+        }
+    ]
+}
