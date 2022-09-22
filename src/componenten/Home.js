@@ -2,7 +2,7 @@ import Taken from "./Taken";
 
 
 const Home = () => {
-    const uri = 'http://localhost:3002/taken'    
+    const uri = 'http://localhost:3001/taken'    
 
     return ( 
         <div className="content">
